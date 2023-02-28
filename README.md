@@ -34,6 +34,7 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## The Result
+
 To satify this criteria, the site uses HTML/CSS/JavaScript structural semantics to reflect the following:
 * A generate button, when clicked, will ask the user to confirm the size of the password required (must be between 8 and 128 characters)
 * A series of questions, prompting the user to choose criterias to include in their password including:
@@ -44,6 +45,9 @@ To satify this criteria, the site uses HTML/CSS/JavaScript structural semantics 
 * Depending on the chosen criteria and the chosen length of the password, the generator will randomly choose characters based on the user's selections and will display the password in the 'Password Textbox'
 
 ## Image of Deployed Site
+
 ![Alt text](Assets/Functional%20Site.png)
 
-## Link to Site
+## Link to Deployed Site
+
+https://saria995.github.io/Random-Password-Generator/
